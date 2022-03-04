@@ -17,6 +17,9 @@ Available in every cities and villages.
 Who:
 Any bank customer who use ATM card.
 
+![Use case diagram (2)](https://user-images.githubusercontent.com/42562641/156710273-eb99bef7-4af4-413b-b4ba-96320cd68f17.jpg)
+
+
 
 Requirements:
 HLR 1- machine shall have user interface.
